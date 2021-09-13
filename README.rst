@@ -57,8 +57,8 @@ shippinglabel
 	:target: https://github.com/domdfcoding/shippinglabel/actions?query=workflow%3A%22mypy%22
 	:alt: mypy status
 
-.. |requires| image:: https://requires.io/github/domdfcoding/shippinglabel/requirements.svg?branch=master
-	:target: https://requires.io/github/domdfcoding/shippinglabel/requirements/?branch=master
+.. |requires| image:: https://dependency-dash.herokuapp.com/github/domdfcoding/shippinglabel/badge.svg
+	:target: https://dependency-dash.herokuapp.com/github/domdfcoding/shippinglabel/
 	:alt: Requirements Status
 
 .. |coveralls| image:: https://img.shields.io/coveralls/github/domdfcoding/shippinglabel/master?logo=coveralls
